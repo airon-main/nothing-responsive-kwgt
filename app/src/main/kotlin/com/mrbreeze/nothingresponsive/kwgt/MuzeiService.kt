@@ -1,4 +1,4 @@
-package dev.jahir.kuper.app
+package com.mrbreeze.nothingresponsive.kwgt
 
 import dev.jahir.frames.muzei.FramesArtProvider
 

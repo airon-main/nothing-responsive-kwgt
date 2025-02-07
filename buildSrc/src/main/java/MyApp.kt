@@ -1,7 +1,7 @@
 @file:Suppress("unused")
 
 object MyApp {
-    const val appId = "dev.jahir.kuper.app"
-    const val version = 253
-    const val versionName = "2.5.3"
+    const val appId = "com.mrbreeze.nothingresponsive.kwgt"
+    const val version = 200
+    const val versionName = "1.0.0"
 }

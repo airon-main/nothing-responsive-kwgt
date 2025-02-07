@@ -1,6 +1,7 @@
-package dev.jahir.kuper.app
+package com.mrbreeze.nothingresponsive.kwgt
 
 import dev.jahir.frames.ui.FramesApplication
+import dev.jahir.kuper.app.BuildConfig
 
 // TODO: Remove comment marks to enable
 // import com.onesignal.OneSignal

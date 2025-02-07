@@ -1,4 +1,4 @@
-package dev.jahir.kuper.app
+package com.mrbreeze.nothingresponsive.kwgt
 
 /* TODO: Remove comment marks to enable
 import android.content.Context
