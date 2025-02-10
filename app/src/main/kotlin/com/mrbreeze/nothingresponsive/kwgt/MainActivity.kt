@@ -1,8 +1,8 @@
 package com.mrbreeze.nothingresponsive.kwgt
 
 import com.github.javiersantos.piracychecker.PiracyChecker
-import dev.jahir.kuper.app.BuildConfig
-import dev.jahir.kuper.app.R
+import com.mrbreeze.nothingresponsive.kwgt.BuildConfig
+import com.mrbreeze.nothingresponsive.kwgt.R
 import dev.jahir.kuper.ui.activities.KuperActivity
 
 class MainActivity : KuperActivity() {
