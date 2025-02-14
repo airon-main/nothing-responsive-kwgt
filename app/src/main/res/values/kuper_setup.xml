@@ -7,8 +7,8 @@
     <bool name="renoir_required">false</bool>
 
     <!--    Name of the skin to be shown inside the Kustom app -->
-    <string name="kustom_pack_title">@string/app_name</string>
+    <string name="kustom_pack_title">Nothing Responsive</string>
 
     <!--    A brief description of the pack contents -->
-    <string name="kustom_pack_description">Cool Kustom komponents, wallpapers and widgets.</string>
+    <string name="kustom_pack_description">The first responsive widget collection inspired by Nothing widgets, designed to seamlessly adapt and fill gaps where others don\'t</string>
 </resources>
